@@ -2,7 +2,7 @@
 
 An interactive fitness app prototype built using Figma and Framer
 
-🧠 Overview
+## 🧠 Overview
 
 NirogX is a fitness app prototype designed to make health and wellness simple and engaging. It offers a clean, intuitive interface for users to explore exercise routines, track progress, and follow personalized diet plans. The design focuses on providing a seamless user experience with smooth transitions and responsive layouts.
 
@@ -24,8 +24,8 @@ Figma: UI/UX design.
 
 Framer: Interactive prototype creation with animations and transitions.
 
-🚀 Objective
+## 🚀 Objective
 
 To create a visually appealing, user-centric fitness app prototype that motivates users to stay consistent on their fitness journey while maintaining a minimalist and responsive design.
 
-📸 Scre
+
