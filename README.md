@@ -1,4 +1,4 @@
-NirogX 🏋️‍♀️
+NirogX 🏋️‍♀️ : Fitness App
 
 An interactive fitness app prototype built using Figma and Framer
 
@@ -23,10 +23,6 @@ Responsive Layout: Optimized design adaptable to various devices and screen size
 Figma: UI/UX design.
 
 Framer: Interactive prototype creation with animations and transitions.
-
-🌐 Live Preview
-
-Check out the live prototype here: NirogX on Framer
 
 🚀 Objective
 
